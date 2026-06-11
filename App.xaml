@@ -3,6 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:WhoBoughtCoffee"
              StartupUri="MainWindow.xaml">
+    <!-- 앱 전체에서 쓰이는 스타일, 색 등의 설정 -->
+    <!-- 삶이란 스스로의 품위를 증명하는 싸움의 연속이다.-->
     <Application.Resources>
          
     </Application.Resources>
